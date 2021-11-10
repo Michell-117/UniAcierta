@@ -31,6 +31,7 @@ footer, header, hgroup, menu, nav, section {
 }
 body {
 	line-height: 1;
+    background-color: whitesmoke;
 }
 ol, ul {
 	list-style: none;
@@ -238,8 +239,11 @@ table {
     border: none;
     border-bottom: 1px solid black;
     padding-left: 30px;
+    padding-top: 20px;
     font-size:20px;
     vertical-align: super;
+    resize: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 .inputs2::placeholder{
     color: rgba(0, 0, 0, 0.452);
