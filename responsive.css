@@ -1,0 +1,8 @@
+@media (max-width: 370px)  {
+    #contenidoWEB{
+        display: none;
+    }
+    #contenidoMOVIL{
+        display: block;
+    }
+}
